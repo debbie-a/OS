@@ -1,5 +1,3 @@
-//תרגיל של דבי אלתר 207425349 סמינר החדש
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
